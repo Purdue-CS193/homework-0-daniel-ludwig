@@ -1,4 +1,11 @@
-##Daniel Ludwig's First CS193 Homework
+## Daniel Ludwig's First CS193 Homework
+
+# My Favorite Things about 193
+- Github skills will be useful in my career
+- It's an easy 1-credit course
+- PSO sessions are optional
+- I can say I'm taking two CS classes and people think I'm a really hard worker
+
 ```markdown
 Syntax highlighted code block
 
