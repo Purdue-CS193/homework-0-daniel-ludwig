@@ -1,4 +1,3 @@
-theme: jekyll-theme-leap-day
 # Daniel Ludwig's First CS193 Homework
 
 ## My Favorite Things about 193
